@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Pankaj Mondal.
 #### I am a Web Developer.
-![I am a Web Developer.](https://scontent.fccu5-1.fna.fbcdn.net/v/t39.30808-6/245668626_2287496322097887_5797945354097942329_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=A-rJvZux-SoAX-9hRgR&_nc_ht=scontent.fccu5-1.fna&oh=00_AT8RLygpKK5oVdag2rZGufOXpvT4VYh-9fbLAGwUjaCByg&oe=61CFD46D)
+![I am a Web Developer.]
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
